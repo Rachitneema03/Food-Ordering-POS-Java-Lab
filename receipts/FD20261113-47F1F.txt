@@ -1,0 +1,20 @@
+==============================================
+              FOODIE'S RESTAURANT
+             FOOD ORDER RECEIPT
+==============================================
+Order ID : FD20261113-47F1F
+Customer : rachit
+Phone    : 9876543212
+Type     : Dine-in
+Payment  : Cash
+Date     : 13-11-2026 11:46:28
+----------------------------------------------
+Item                      Qty     Amount
+Veg Burger                  1      99.00
+Crispy Zinger Burger        1     179.00
+----------------------------------------------
+Subtotal                       Rs.   278.00
+GST (5%)                       Rs.    13.90
+TOTAL                          Rs.   291.90
+==============================================
+              Thank you. Visit again!

@@ -1,0 +1,20 @@
+==============================================
+              FOODIE'S RESTAURANT
+             FOOD ORDER RECEIPT
+==============================================
+Order ID : FD20261113-8A78F
+Customer : rachit
+Phone    : 9876543212
+Type     : Delivery
+Payment  : Cash
+Date     : 13-11-2026 11:25:32
+----------------------------------------------
+Item                      Qty     Amount
+Chicken Burger              1     149.00
+Cold Coffee                 1      89.00
+----------------------------------------------
+Subtotal                       Rs.   238.00
+GST (5%)                       Rs.    11.90
+TOTAL                          Rs.   249.90
+==============================================
+              Thank you. Visit again!
